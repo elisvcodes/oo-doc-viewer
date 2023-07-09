@@ -23,7 +23,7 @@ function App() {
     <div style={{ width: "100vw", height: "100vh" }}>
       <DocumentEditor
         id="docxEditor"
-        documentServerUrl="http://164.92.120.27/"
+        documentServerUrl={import.meta.env.VITE_DOCUMENT_SERVER_URL!}
         config={config}
         // events_onDocumentReady={onDocumentReady}
         // onLoadComponentError={onLoadComponentError}

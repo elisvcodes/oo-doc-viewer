@@ -1,0 +1,23 @@
+[
+  {
+    "fileType": "docx",
+    "title": "Example Document",
+    "key": "Khirz6zTPdfd7",
+    "url": "https://filesamples.com/samples/document/docx/sample4.docx",
+    "documentType": "word"
+  },
+  {
+    "fileType": "pdf",
+    "title": "Simple pdf",
+    "key": "Khirz6zTPdfd11",
+    "url": "https://www.africau.edu/images/default/sample.pdf",
+    "documentType": "word"
+  },
+  {
+    "fileType": "pptx",
+    "title": "Sample powerpoint X slides",
+    "key": "hjkgt67",
+    "url": "https://scholar.harvard.edu/files/torman_personal/files/samplepptx.pptx",
+    "documentType": "slide"
+  }
+]
